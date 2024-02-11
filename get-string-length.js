@@ -1,11 +1,9 @@
-let myString = 'Hello World!!!';
-console.log('${myString} has ${myString.length} characters');
-
-
+let myString = 'Hello World!!';
 // TODO: get the size of `myString` defined above and assign to `len`.
 // NOTE: DO NOT HARD CODE THE SIZE OF `myString`. When you change the value
 // of `myString`, the test should still pass.
 let len = -1;
+len = myString.length;
 
 // DO NOT CHANGE ANYTHING BELOW THIS LINE.
 
