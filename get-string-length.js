@@ -1,5 +1,5 @@
 let myString = 'Hello World!!!';
-console.log(str.length);
+console.log('${myString} has ${myString.length} characters');
 
 
 // TODO: get the size of `myString` defined above and assign to `len`.
